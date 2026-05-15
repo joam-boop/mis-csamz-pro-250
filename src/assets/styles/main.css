@@ -1,0 +1,16 @@
+@import './variables.css';
+
+body {
+  font-family: 'DM Sans', sans-serif;
+}
+
+.btn-gold {
+  background: var(--gold);
+  color: white;
+  padding: 10px 20px;
+  border: none;
+}
+
+.router-link-active {
+  color: var(--gold) !important;
+}
