@@ -5,6 +5,6 @@
 </template>
 <style >
 body {
-  background: linear-gradient(pink);
+  background: linear-gradient(white);
 }
 </style>
