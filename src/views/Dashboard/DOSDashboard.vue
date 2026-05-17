@@ -694,7 +694,10 @@ function showRequests(status){
   display:flex;
   gap:15px;
 }
-
+.f{
+  font-size: large
+  ;
+}
 .header-btn{
   border:none;
   padding:12px 20px;
